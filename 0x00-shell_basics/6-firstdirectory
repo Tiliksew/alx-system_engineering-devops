@@ -1,2 +1,2 @@
 #!/bin/bash
-touch ~/../../tmp/smy_first_directory
+mkdir ~/../../tmp/smy_first_directory
