@@ -6,7 +6,7 @@
 #   Long format
 #   with user and group IDs displayed numerically
 #   And hidden files (starting with .)
-# Create a script that creates a directory named holberton in the /tmp/ directory.
+# Create a script that creates a directory named 
 # Move the file betty 
 # Delete the file betty.
 # Delete the directory 
